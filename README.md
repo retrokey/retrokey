@@ -1,4 +1,4 @@
-### Lucas Barbosa<h6>Desenvolvedor BackEnd</h6>
+### David Alonso<h6>Desarrollador</h6>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=retrokey&label=Profile%20views&color=0e75b6&style=flat" alt="retrokey" /> </p>
 
  <div>
