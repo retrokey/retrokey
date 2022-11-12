@@ -3,7 +3,7 @@
 
  <div>
   <a href="https://github.com/retrokey">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=retrokey&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=retrokey&show_icons=true&theme=midnight-red&include_all_commits=true&count_private=true"/>
 </div>
  
  ##
