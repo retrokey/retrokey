@@ -9,7 +9,7 @@
 </a>
    </p>
    
-   <h3 align="left">Studying:</h3>
+   <h3 align="left">Learning:</h3>
    <p align="left"> 
    
    <a href="https://reactnative.dev" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="nginx" width="40" height="40"/> </a>
