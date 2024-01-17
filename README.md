@@ -16,5 +16,4 @@
    </a><a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
    </p>
 
-<p><img align="center" src="https://github.com/retrokey/github-stats/blob/actions_branch/generated_images/languages.svg" alt="langs1" /><img align="center" src="https://github.com/retrokey/github-stats/blob/actions_branch/generated_images/overview.svg" alt="overview" /></p>
-<img align="center" src="https://github.com/Thunderte/github-stats/blob/actions_branch/generated_images/github-snake.svg"/>
+<p><img align="center" src="https://github.com/retrokey/stats-github/blob/actions_branch/generated_images/languages.svg" alt="langs1" /><img align="center" src="https://github.com/retrokey/stats-github/blob/actions_branch/generated_images/overview.svg" alt="overview" /></p>
